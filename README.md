@@ -11,6 +11,7 @@
 
 <img align='right' src="https://media.giphy.com/media/irClCpuJAWgRqtP73t/giphy.gif" width="230">
 
+
 <h3> 🧑🏻‍💼•💻 About Me </h3>
 
 
@@ -22,6 +23,7 @@
 
 - ✍️ &nbsp; 目前在北京工作4年,后端(前端也会)/开发组长,喜欢玩服务器.
 
+- 📽  &nbsp; <a href="https://blue129.com">个人Blog</a>
 
 <h3>🛠 Tech Stack</h3>
 
@@ -45,6 +47,8 @@
 - 🔧 &nbsp; AWS | Docker🐳 | K8s 
 
 <hr>
+
+
 
 
 

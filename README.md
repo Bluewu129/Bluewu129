@@ -1,11 +1,52 @@
-- 👋 Hi, I’m @Bluewu129
+## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+<p align="center" >
+  <samp>
+    我的名字叫<em>吴高博</em> 
+  <br/> (北京)后端开发工程师
+  </samp>
+  <br/>工作5年
+  <br/>
+  <br/>
+</p>
 
-<!---- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+<img align='right' src="https://media.giphy.com/media/irClCpuJAWgRqtP73t/giphy.gif" width="230">
 
-<!---
-Bluewu129/Bluewu129 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3> 🧑🏻‍💼•💻 About Me </h3>
+
+
+
+- 🤔 &nbsp; 探索新技术,开源项目/网站
+
+<!--- 🎓 &nbsp; -->
+- 🌱 &nbsp; 正在学习AWS,SpringCloud Alibaba,系统设计
+
+- ✍️ &nbsp; 目前在北京工作4年,后端(前端也会)/开发组长,喜欢玩服务器.
+
+
+<h3>🛠 Tech Stack</h3>
+
+
+- 💻 &nbsp; Java | MySQL
+
+- 🌐 &nbsp; HTML | CSS | JavaScript | Vue | JSP
+
+- 🛢 &nbsp; MySQL | Redis 
+
+- 🔧 &nbsp; Git | Markdown | Jenkins | Sona Cube ｜ AWS S3 
+<!--
+- 🖥 &nbsp; Illustrator| Photoshop | InDesign
+
+-->
+
+
+
+<h3>🛠 To Learn</h3>
+
+- 🔧 &nbsp; AWS | Docker🐳 | K8s 
+
+<hr>
+
+
+
+
+

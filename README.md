@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/welcomeglitch.gif" width="50px" /> Hello!
+Hello!
 <p align="center" >
   <samp>
     我的名字叫<em>吴高博</em> 

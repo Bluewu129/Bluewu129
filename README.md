@@ -1,3 +1,6 @@
+
+[![Join the chat at https://gitter.im/Bluewu129/explorer](https://badges.gitter.im/Bluewu129/explorer.svg)](https://gitter.im/Bluewu129/explorer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hello!
 <p align="center" >
   <samp>

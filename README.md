@@ -1,10 +1,8 @@
 Hello!
 <p align="center" >
   <samp>
-    我的名字叫<em>吴高博</em> 
-  <br/> (北京)后端开发工程师
+    <em>wuwuwu</em>
   </samp>
-  <br/>工作5年
   <br/>
   <br/>
 </p>
@@ -16,13 +14,9 @@ Hello!
 
 
 
-- 🤔 &nbsp; 探索新技术,开源项目/网站
+- 🤔 &nbsp; 打蚊子
 
 <!--- 🎓 &nbsp; -->
-- 🌱 &nbsp; 正在学习AWS,SpringCloud Alibaba,系统设计
-
-- ✍️ &nbsp; 目前在北京工作5年,后端(前端也会)/开发组长,喜欢玩服务器.
-
 - 📽  &nbsp; <a href="https://blue129.com">个人Blog</a>
 
 <h3>🛠 Tech Stack</h3>
